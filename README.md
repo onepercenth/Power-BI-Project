@@ -109,6 +109,7 @@ Highest Profit-Generating Products:
 2. Investigate low sales in January and February to identify and mitigate potential market challenges. 
 3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal stock levels.
 ### References
+[document pdf](file:///C:/Users/taslim/Desktop/AXIA%20AFRICA/AXIA%20POWER%20BI/Week4%20Case%20Study/Case%20Study(Maven%20Toys).pdf)
 ## Table of Content
 
 - [Project Overview](#project-overview)
